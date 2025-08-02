@@ -1,0 +1,17 @@
+start
+     int number
+     display"enter the number"
+     accept number
+     if(number>0) 
+        begin
+              display"the number is positive"
+        end
+    else-if(number<0)
+        begin
+              display"the number is negative"
+        end
+    else-if (num==0)
+         begin
+               display"the nmber is zero"
+ end              
+ 

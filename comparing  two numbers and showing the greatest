@@ -1,0 +1,15 @@
+start
+     int num1
+     int num2 
+     display"ENTER THE FIRST NUMBER"
+     accept num1
+     display "ENTER THE SECOND NUMBER"
+     accept num2
+     if(num1>num2)  
+       begin
+            display "fisrt number is the greatest" 
+       end  
+     else-if(num2>num1) 
+       begin
+            display"second number is the greatest"
+end

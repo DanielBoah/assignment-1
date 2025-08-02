@@ -1,0 +1,13 @@
+start
+     display"enter the year"
+     accept year
+     if (year%4==0) 
+         begin
+               display"year  is leap year"
+         end
+        else-if (year%4!=0) 
+         begin
+               display "year is not leap"
+         end
+end
+    
