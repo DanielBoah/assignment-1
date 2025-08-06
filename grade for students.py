@@ -6,4 +6,4 @@ elif score>=80 and score<=89:
 elif score>=70 and score<=79:
     print("C")  
 elif score<70:
-    print("F")     
+    print("F")
